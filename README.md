@@ -17,7 +17,7 @@ To install `hsearch`, ensure you have Deno installed, then run this command in
 your terminal:
 
 ```bash
-deno install --allow-read --allow-env --allow-run --importmap=import_map.json  --name=hsearch -r https://hsearch.fenotiana.dev
+deno install --allow-read --allow-env --allow-run --importmap=https://hsearch.fenotiana.dev/hsearch/import_map.json --name=hsearch -r https://hsearch.fenotiana.dev
 ```
 
 ## Quick start
