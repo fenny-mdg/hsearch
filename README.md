@@ -5,8 +5,10 @@ elusive command you used last week? Look no further! Introducing `hsearch`, your
 solution to effortlessly search through your command history with finesse.
 
 ## Requirements
-
-- [Deno](https://deno.land) 1.35 or higher. See [Deno Installation](https://deno.land/manual/getting_started/installation) for more information.
+- OS: Linux, macOS
+- [Deno](https://deno.land) 1.35 or higher. See
+  [Deno Installation](https://deno.land/manual/getting_started/installation) for
+  more information.
 
 ## Installation
 
@@ -38,7 +40,6 @@ rerun with style!
 
 Found a bug or have ideas to enhance the magic? Contribute to the wizardry by
 opening an issue or crafting a spell (pull request).
-
 
 ## License
 
